@@ -24,7 +24,7 @@ function App() {
             element={<AboutMe />}
           />
           <Route
-            path="/aboutMe"
+            path="/portfolio"
             element={<Portfolio />}
           />
           <Route
