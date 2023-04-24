@@ -1,10 +1,16 @@
 import React from 'react'
 
-function Test() {
+function Footer() {
 
     return (
-        <h1> test </h1>
+        <div className="card text-center">
+            <div className="card-body">
+                <h5 className="card-title">Marcus Paccapaniccia</h5>
+                <p className="card-text">&copy; 2023</p>
+            </div>
+
+        </div>
     );
 }
 
-export default Test;
+export default Footer;
