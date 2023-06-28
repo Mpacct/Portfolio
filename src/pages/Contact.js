@@ -1,21 +1,30 @@
 import React from 'react'
-import { useState } from 'react';
 import ReactDOM from 'react-dom/client';
+import resumepdf from "../assets/Marcus_Paccapaniccia_Resume_2023.pdf"
 
 function Test() {
 
     return (
         <div>
-            <h1>Contact Me</h1>
-            <div className="mb-3">
-                <label for="exampleFormControlInput1" className="form-label">Enter your email address:</label>
-                <input type="email" className="form-control" id="exampleFormControlInput1" placeholder="name@example.com" />
+            <h3>Contact Me</h3>
+            <div>
+            <p>Email: Paccapanicciam@gmail.com</p> 
             </div>
-            <div className="mb-3">
-                <label for="exampleFormControlTextarea1" className="form-label">Enter your message:</label>
-                <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            <div>
+            <a href="https://www.linkedin.com/in/marcus-paccapaniccia/" target="_blank" style={{ color: 'black', textDecoration: 'none' }}> <p>Linkedin: https://www.linkedin.com/in/marcus-paccapaniccia/ </p></a>
             </div>
-            <a href="" className="btn btn-primary">Send!</a>
+            <div>
+            <a href="https://github.com/Mpacct" target="_blank" style={{ color: 'black', textDecoration: 'none' }}><p> Github: https://github.com/Mpacct </p></a>
+            </div>
+
+            <div className="container col-xl-4 col-lg-4 d-flex justify-content-center ">
+              <a
+                href={resumepdf}
+                 className="d-flex justify-content-center btn btn-dark"
+                type="button" download>
+                Download Resume
+              </a>
+          </div>
         </div>
     );
 }

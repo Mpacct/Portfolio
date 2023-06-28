@@ -31,10 +31,10 @@ function App() {
             path="/contact"
             element={<Contact />}
           />
-          <Route
+          {/* <Route
             path="/resume"
             element={<Resume />}
-          />
+          /> */}
           <Route
             path="*"
             element={<NoMatch />}
