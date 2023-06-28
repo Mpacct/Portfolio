@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.073c9b0a.css",
-    "main.js": "/Portfolio/static/js/main.5bf700b8.js",
+    "main.css": "/Portfolio/static/css/main.931f3640.css",
+    "main.js": "/Portfolio/static/js/main.c4bfc5b8.js",
     "static/js/787.c4e7f8f9.chunk.js": "/Portfolio/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/resume.pdf": "/Portfolio/static/media/resume.20a8d9353aee4dc5da7f.pdf",
+    "static/media/vehicleAPI.png": "/Portfolio/static/media/vehicleAPI.ea85138859c949d09091.png",
+    "static/media/Marcus_Paccapaniccia_Resume_2023.pdf": "/Portfolio/static/media/Marcus_Paccapaniccia_Resume_2023.adaae56cc048d62589c1.pdf",
+    "static/media/portfolioImage1.jpg": "/Portfolio/static/media/portfolioImage1.ce2700f1b3f86835e67c.jpg",
+    "static/media/backgroundImage.jpg": "/Portfolio/static/media/backgroundImage.bc180527e510721d7a8d.jpg",
+    "static/media/Hello_Workout_Screenshot.png": "/Portfolio/static/media/Hello_Workout_Screenshot.f267d574d6aac9fde147.png",
+    "static/media/InitialsLogo.png": "/Portfolio/static/media/InitialsLogo.5134fbc73122f1976fc7.png",
     "index.html": "/Portfolio/index.html",
-    "main.073c9b0a.css.map": "/Portfolio/static/css/main.073c9b0a.css.map",
-    "main.5bf700b8.js.map": "/Portfolio/static/js/main.5bf700b8.js.map",
+    "main.931f3640.css.map": "/Portfolio/static/css/main.931f3640.css.map",
+    "main.c4bfc5b8.js.map": "/Portfolio/static/js/main.c4bfc5b8.js.map",
     "787.c4e7f8f9.chunk.js.map": "/Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5bf700b8.js"
+    "static/css/main.931f3640.css",
+    "static/js/main.c4bfc5b8.js"
   ]
 }
