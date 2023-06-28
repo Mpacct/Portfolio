@@ -20,11 +20,11 @@ function App() {
         <Header />
         <Routes>
           <Route
-            path="/"
+            path="/portfolio"
             element={<AboutMe />}
           />
           <Route
-            path="/portfolio"
+            path="/projects"
             element={<Portfolio />}
           />
           <Route
